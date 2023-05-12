@@ -14,7 +14,7 @@ Another argument, one which is made within the music industry itself, is that ra
 
 ### Think of the Youth
 
-Yet another common argument against rap is its negative influence on youth, citing that it can encourage drug use, violence, and obscenity. It is important to encourage that these themes in rap music do not invalidate environmental factors in a person's life. Factors such as single parenting, drug use, people youth engage with, or depression will have a much bigger impact on their predisposal to these behaviors than rap music. Personal responsibility also cannot be taken out of the question. If a young person chooses to curse, that is their decision. They can choose to or not. There may be cursing in rap music, but just like with misogyny, it can't be held liable for them cursing ot engaging in other harmful behaviors. 
+Yet another common argument against rap is its negative influence on youth, citing that it can encourage drug use, violence, and obscenity. It is important to encourage that these themes in rap music do not invalidate environmental factors in a person's life. Factors such as single parenting, drug use, people youth engage with, or depression will have a much bigger impact on their predisposal to these behaviors than rap music. Personal responsibility also cannot be taken out of the question. If a young person chooses to curse, that is their decision. They can choose to or not. There may be cursing in rap music, but just like with misogyny, it can't be held liable for them cursing or engaging in other harmful behaviors. 
 
 ### The Conclusion
 
