@@ -1,3 +1,7 @@
+---
+layout: post
+title: "On Passion"
+---
 #### A Speech about Passion
 
 Why do we lose our passion for things we used to be obsessed with? 

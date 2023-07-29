@@ -1,3 +1,7 @@
+---
+layout: post
+title: "In Defense of Rap"
+---
 I've heard many people say that rap is bad or harmful for those that listen to it. They cite various reasons, such as a lack of meaning or misogyny, for why this is. But many of these reasons are invalid or exaggerated, and I'll argue for why. 
 
 ### A Lack of Meaning
