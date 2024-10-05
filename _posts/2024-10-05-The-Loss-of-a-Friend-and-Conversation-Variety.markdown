@@ -1,0 +1,21 @@
+---
+layout: post
+title: The Loss of a Friend and Conversation Variety
+---
+Hello, readers! It's been a while since I posted something, but something happened to me recently that instantly gave me an idea for a post. Namely, losing an online friend. Now, I wasn't too emotionally affected by this, but it's why they no longer wanted to be friends with me anymore that inspired me to start writing about it. And honestly, it makes me quite worried about my current and future friendships. It's a worry that (I think) people inherently have, but I had to learn about it firsthand. I hope it is insightful for how y'all approach connections with others in your daily lives.
+
+#### The Friendship that Was
+
+I met this specific (former) friend on a Discord server that was meant to support people with their QuestBridge applications (a type of college application). In addition to receiving application help, it was also a place where I connected with others that I would still consider friends to this day. That's not the point, though. As for the friend in question, we first bonded over the fact that we were both bookworms and loved going to school. Combined with suffering through college apps at the same time, a great bond formed between us. Whether that was talking about the books we had read, what we loved most about our classes, or ranting about the application process, nothing at the time suggested that what would happen would go down. Heck, we even had a little book club of two. But looking back, it starts to make sense.
+
+#### The Dissolution
+
+After the server members got into college, our exhaustion from the process and finally seeing its end was a fantastic sight. Sure, we had gone through the process together, but of course we weren't going to continue talking about it. No matter, me and the friend in question still had our interests in books and dark academia and academics to keep our bond strong, right? Yes, but only at first. For a while, this was indeed what kept us connected. But they started to decrease their Discord activity, so we didn't talk as much. I wasn't oblivious to the fact that our friendship was on its deathbed, and I was ready to set aside our friendship as one that fell victim to non-interaction. But recently, I reached out to them because I wanted to say hello, and found out the true cause of why our bond fell apart.
+
+#### The True Friendship Killer
+
+During our last interaction, they mentioned that our conversations had become flat and circular, always coming back to the same themes or topics. They wanted more out of our friendship, but I never tried to connect with them over anything else. Therefore, we parted ways. I couldn't keep things novel and interesting, and this was the consequence of that. Again, it made sense. No matter how much a common trait connects two people, it can't be a permanent glue; they have to actually enjoy each other's presence for its own sake. The common trait can be a means to this end, though. This hurt to hear, but I needed to. I had to accept the fact that I had killed a friendship not through something bad that I did, but by not injecting novelty into our interactions when it was needed.
+
+#### The Continual Worry
+
+My worry lies in the fact that my failure to make interactions with this person novel is what severed our connection, and could become an issue with other friends that I've made too. I notice it becoming more and more difficult to have unique things to say and do with friends I currently have. Since starting college, I haven't had time to do anything else other than class and problem sets, since I'm still acclimating. Already, I see myself returning to the same themes with my friends and people I want as friends because I can't think of anything else to say. I'm searching for a solution, and I have some ideas. Saying the first thing that comes to mind (or random things you think of), making your own life more interesting by getting into new things and trying out new hobbies, or even pulling up to functions perhaps. I don't know whether or not these things will help keep things novel in the long-term. All I know is that I don't want a graveyard of bonds that could've lasted if only it was more fresh and compelling between us.
