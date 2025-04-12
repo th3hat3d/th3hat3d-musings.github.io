@@ -1,0 +1,68 @@
+---
+layout: post
+title: "From GD Addict to MIT Admit: How I Did It"
+---
+
+Hello everyone! Ever since I started college, I realized the sheer magnitude of how much my life had changed ever since. It wasn't solely due to the connections I would have or the classes I would take or the rigor of it all; what got me to MIT in the first place was also such a monumental change I wasn't thinking about. In the course of just one year, I completely changed my life to the degree where I was capable of getting in. This story serves as inspiration for anyone who wants to turn things around in their life for the better, and illustrates how quickly it can happen.
+
+#### Addiction
+
+During my sophomore year, I was addicted to a game called Geometry Dash. Its players don't have the best reputation, especially because most who still play it today are far from casual players. I had friends who also played the game regularly, so I was able to bond with them over it during lunch or when we visited each others' houses. I'm not denying the excellent times we had talking about and discussing the game, but it did legitimately waste time I could've been using to work on my hobbies or do better at school.
+
+At some point, my mom approached me while I was playing GD on my phone during the weekend and asked me what that game was doing for me. I answered by saying that it was fun and entertaining, which was a fair reason in my eyes. But then she asked me what else I had going for me in my life, and I was speechless. **I had no answer to give**. Then she walked away and allowed me to think about it. I'm a person who doesn't have much resistance to the desire to change, but I needed that wake-up call. From here, unbeknownst to me, a journey was about to start that I didn't see coming.
+
+#### Exploration
+
+At this point, I hadn't completely stopped playing, but was weaning myself off the game. I stopped watching videos about it and only played around friends. More importantly though, I started to explore more of what I wanted to do with computers. One day, I came across a [site](https://crackmes.one) that specialized in hosting downloads for "crackmes," or tiny programs that the user had to analyze and figure out how to get around its protections and/or make a key generation tool for it. I got a kick out of these, since I loved the idea of cracking software to learn how to protect it. On the bottom of the site is an attribution to a website called HackTheBox, which was a cybersecurity learning platform. I quickly became obsessed with infosec, and this sparked an interest that still stands strong years later as my dream field. This will be expanded upon in the next section.
+
+I also started exploring myself more socially, breaking out of my shell a bit more with every passing day. It started by just saying "hi" to people I didn't know that well, then talking to friends of my current friends, and even getting involved in my school newspaper (I was the interview guy mainly even though I was nervous, and this helped a LOT with my confidence). All of these steps, in combination with quitting GD, built up a confidence that would prove integral down the line and would be one of my most essential traits.
+
+One of the drivers that led me to even attempt the journey that I eventually went on was a presentation on QuestBridge (QB) at my high school (a scholarship program). At the time, I didn't even want to go to college, but my counselors convinced me to give the entire college thing a try. I was only planning on going if I got a significant scholarship though, didn't want to deal with the debt. Due to this, I ended up joining an online group that centered around QB and college apps, and the people I met here ended up being the largest driver towards changing my mind towards college. Now to get to the interest that formed the core of my applications...
+
+#### The Cybersecurity Method
+
+##### The "ShadowBrokers" Team (not the famous one)
+
+After I created my account on HackTheBox, I started to go through their learning sequences, quickly getting a hang of how the platform went. I sniff around the machine, figure out what's running on it, exploit one of those services using my own in-house exploit or a pre-made one online, and repeat this with internal services, potentially gaining access to something on the outside I previously didn't have access to... point is, I started loving it. Around this time, I was also talking to people online in various IT communities, with two points of contact forming the foundation of my infosec journey's most notable components.
+
+A few months after I started doing HackTheBox, one of my online friends contacted me about a CTF (capture the flag) team he was part of and wanted me to join in. I said yes to this offer, not knowing that it would change my life forever. The team collaboratively solved the boxes (hackable machines) and competed in events where the objective was to solve mini-challenges that required us to put our infosec skills together. We were all fairly unskilled, but we wanted to become among the best nonetheless. At this time, I was rapidly solving the challenges and boxes (to a no-life point), so I was the fastest advancing member in terms of skill and rank on the team. Due to this, I was the pick for the team's co-captain, though I hadn't been on board as long as some of the other people on there. Together, me and the other co-captain made the team more open to new members, with the philosophy being that it was more important for our members to have diverse skillsets and perspectives than simply a few skilled members. Within a few months, our team climbed to the top 20 teams worldwide on the HackTheBox platform, and our new approach was a significant contributing factor towards this, in addition to the work of our skilled team members.
+
+##### CS4CS
+
+Ultimately, one of the more minor parts, but I found it important enough to mention. This was a program at NYU where a group of 30 students learned about cybersecurity principles, tricks, and frameworks while working on a research paper that would be sent to a depository bank in NYC and read by employees there. I've already written extensively about my experience [here](https://cybersec.deadandbeef.com/my-experience-at-nyu-cs4cs), so I'll try not to repeat too much here. What I do want to say about this experience is that it gave me the opportunity to put the confidence I've built over the last few months to good use, talking with industry professionals and all when the end conference wasn't intended to have a career networking focus. However, I just made it into my own networking event.
+
+##### Certifications and a Maker Portfolio
+
+Another point of contact I had in the cybersecurity space was a person by the name of Day who was a music producer, but also huge into infosec and computer networking. We built up an online friendship over several months, talking about our experiences in security and bonding on a personal level. For the purposes of this blog post, we will focus on what he motivated me to do to advance my skills in the field. He was working on a certification called the CCNA, which is intended to show that the holder can manage a small enterprise network and configure from the ground up. This sounded like a great prospect to me, becoming interested in a brand new field that intersected nicely with cyber. Only one problem though: I couldn't afford the exam or practice materials at the time. So I applied for a mini-grant by the name of [GripTape](https://griptape.org) that would give me $500, enough to get my CCNA. I didn't get it the first time around, so I studied while I waited for the next time I could apply. I used a free course online to study for it, taking notes meticulously as I did and doing the in-video quizzes. A few months of studying later, I applied to GripTape again and got the money. I was nervous for the upcoming exam that I signed up for, since I literally couldn't afford to fail it. This was, I think, a huge reason behind why I passed on my first try in the first place. Scarcity fuels opportunism, and I couldn't waste this money I was given, this chance.
+
+With my new skills from the CCNA, I figured I needed a unique idea to bump up some of my more high stakes college applications (the ones I cared about the most), including MIT. In the course of my CCNA study, I had also spent some of the money on physical routers and a switch to practice network configurations with real devices. But I realized that I could reuse these devices for a maker portfolio. The result was [this](https://cybersec.deadandbeef.com/messing-around-with-voip) project, which ended up being one of the pillars for my applications to the colleges that accepted it, being able to weave cyber and computer networking together into a cohesive vision for what I wanted to do in the future.
+
+After my deferral from MIT and Columbia, I once again took inspiration from my friend Day in the form of a certification he already had: the CompTIA Security+. After only about a week of study, I was able to obtain the certification alongside winning additional competitions with my ShadowBrokers team. I ended up mentioning this on my update forms (letters of continued interest) for both schools.
+
+##### The Making of a Box
+
+While I was doing these boxes on HackTheBox, I toyed with the idea of making my own box for quite a while. However, as I competed more with my team and completed more boxes, I got more and more ideas for what I could make into a box. Eventually, I got started on the idea and created a virtual machine where I developed it over several months and revisions as suggested by the company's box team. After about two revisions, it finally got accepted and released in an additional few months. This ended up as one of my main extracurriculars on my applications, having earned $250 from the project. A walkthrough of the machine is available [here](https://youtu.be/zcVCLoMsOKA?si=J8r6gibTj9ettoSx) if you'd like to check it out. The lesson learned here is to take action on your ideas once they reach a critical mass where you feel as if they shouldn't be just thoughts.
+
+#### The Ascent Towards Admission
+
+By about February, I had gotten to a point where I would be happy even if I didn't get into the colleges I applied to. I had been offered a job at the NYU conference at a clearinghouse bank in the case that I don't go to college at all too, which made me increasingly ambivalent towards the result. Getting in would be awesome, but I'd already created a future for myself that I would be ecstatic about pursuing. The range of friends that I made on the QuestBridge server I mentioned earlier fueled my motivation to give these colleges a try, helping each other out and celebrating our wins while being there for our losses too. School was on the up and up too, having the benefit of great relationships with my teachers as well as a consistent study schedule where I excelled in my classes without too much effort on my part, Not that it wasn't hard, but I was able to handle it without stepping into my cybersecurity activities. However, there was one thing that dragged me down: my GPA, Despite my growth over the past few months, my 3.66 GPA still didn't look great in the eyes of colleges. My past slump during freshman and sophomore year still haunted me in the form of this statistic.
+
+#### The Payoff
+
+On the day of March 14 of 2024, I felt many mixed emotions. I was excited for the possibility of getting into MIT, but also ambivalent in that I could live if I didn't get in. I also felt sad in some sense. If only I locked in during freshman and sophomore years and didn't mess around with Geometry Dash (and chess) so much, I wouldn't be that worried about any part of my application. Some of my confidence was restored because I was at MIT's fly-in the previous year, but I'd just have to wait and see.
+
+At 6:28 PM that day, it was time. I sat down with my mother and opened the decision as soon as I saw the button to view my decision, with no hesitation.
+
+I had made it in.
+
+In the course of only a year, I had been able to turn my life around and get into MIT, and I knew that my life would change even more from here. It's important for me to mention that I had gotten help from College Essay Guy's [Matchlighters](https://www.collegeessayguy.com/matchlighters) scholars program on my essays; I'm not sponsored by them, only giving credit where credit is due.
+
+#### Closing Thoughts
+
+My advice with telling my story is that change is possible, even in a short time frame. Take everything as an opportunity and as an opportunity to think about the changes you'd want to make. Chase after anything that catches your eye or piques your interest, as it could take you on a grand journey or introduce you to a more positive pursuit than what you may be negatively addicted to. It only takes one moment to spark that desire to change. Pursue it how you need to, as long as you're headed in the right direction. Your best is all that can really be expected of you. I'll close off with two quotes about those instants I talk about, where you think about those changes.
+
+"Bam! Uno reverse card!"
+
+"If I lay this card down, I can flip any situation around."
+
+Both of these are from the song ["Uno Reverse"](https://open.spotify.com/track/2JstmWrpjy0yeu194F7CV4?si=ba63c679ca8244d0) by Your Favorite Martian. Imagine that you have one of those cards during these moments of reflection. It's all you from there.
